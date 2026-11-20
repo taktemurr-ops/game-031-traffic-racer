@@ -1,0 +1,1 @@
+trafik,araba,yarış,otoyol,offline
